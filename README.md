@@ -98,7 +98,7 @@
 
 ### Looking for my next step  
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+PhD or Job?
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
