@@ -6,13 +6,13 @@
 ### <div align="center">I'm Peter, a C++ developer 👨‍💻 with a passion for 3D Graphics and Game Dev 🚀</div>  
   
 
-- 🔭 I’m currently working on [Bidirectional Path Tracing](https://github.com/pzheng460/BidirectionalPathTracing)  
+- 🔭 I’m currently working on [Bidirectional Path Tracing](https://github.com/pzheng460/BidirectionalPathTracing).  
   
 
-- 🌱 I’m currently learning advanced computer graphics techniques  
+- 🌱 I’m currently learning advanced computer graphics techniques.
   
 
-- ❓ Ask me about anything related to CG and related technologies  
+- ❓ Ask me about anything related to CG and related technologies.
   
 
 - ⚡ Fun fact: I have a discerning taste for code style.  
