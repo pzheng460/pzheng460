@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://media.licdn.com/dms/image/D4E16AQH6nHGxu3zNrg/profile-displaybackgroundimage-shrink_350_1400/0/1710539089332?e=1728518400&v=beta&t=Fbxqu56UE1BeR6piyv6FpFH6psXjvE_djLLrUsdfHlk" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Peter, a C++ developer 👨‍💻 with a passion for 3D Graphics and Game Dev 🚀</div>  
   
 
