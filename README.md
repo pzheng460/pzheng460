@@ -1,7 +1,7 @@
-### <div align="center">I'm Peter, a C++ developer 👨‍💻 with a passion for 3D Graphics and Game Dev 🚀</div>  
+### <div align="center">I'm Peter, a Python and C++ developer with a passion for 3D Graphics and Large Language Model. </div>  
   
 
-- 🔭 I’m currently working on [[Bidirectional Path Tracing](https://github.com/pzheng460/BidirectionalPathTracing)](https://github.com/pzheng460/okx_trading_bot).  
+- 🔭 I’m currently working on [OKX Trading Bot](https://github.com/pzheng460/okx_trading_bot).  
   
 
 - 🌱 I’m currently learning advanced computer graphics techniques and LLM.
